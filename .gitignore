@@ -2,3 +2,5 @@ skill_profiles/*
 *.log
 *.txt
 *.csv
+*.pdf
+*.DS_Store
